@@ -16,3 +16,7 @@ State fixes and Asset Order fixes by me.
 # Warning about Asset IDs
 I fixed the majority of them, but some of them might still be messed up, so I left the Asset Order in.
 If you see anything that's a number that is supposed to be an Asset, fix it using the Asset Order that the decompiler left in.
+
+# Note about GML
+To make GML work, you have to add GMLive yourself aswell. This is because I removed GMLive from the repository, because it is a paid extension.
+If you already have GMLive, simply import the yymps like you would anyother and it should work.
